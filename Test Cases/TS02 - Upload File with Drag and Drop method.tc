@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TS01 - Upload File</name>
+   <name>TS02 - Upload File with Drag and Drop method</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a7d411cf-d2d5-4236-b2f9-63aa7ce63f6f</testCaseGuid>
+   <testCaseGuid>394539ce-2f9b-4d67-a781-04273a53a324</testCaseGuid>
 </TestCaseEntity>
