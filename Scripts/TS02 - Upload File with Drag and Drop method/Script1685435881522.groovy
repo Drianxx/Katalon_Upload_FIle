@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://the-internet.herokuapp.com/upload')
 
-WebUI.uploadFileWithDragAndDrop(findTestObject('File_drag'), 'D:\\Coding.ID\\dummy file.ipynb')
+WebUI.uploadFile(findTestObject('Choose_file_btn'), 'D:\\Coding.ID\\dummy file.ipynb')
 
 WebUI.click(findTestObject('upload_btn'))
 
