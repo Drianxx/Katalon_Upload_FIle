@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS03 - Upload File Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d3dfb5b-9f05-46f2-85fe-c50df5af29b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30afb2e6-2ad3-47e5-95ae-eede2d3251b8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30afb2e6-2ad3-47e5-95ae-eede2d3251b8</id>
+      <masked>false</masked>
+      <name>path</name>
+   </variable>
+</TestCaseEntity>
